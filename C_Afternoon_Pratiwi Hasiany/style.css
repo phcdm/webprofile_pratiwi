@@ -90,13 +90,6 @@ span{
     line-height: 30px;
 }
 
-.home {
-    position: absolute;
-    left: 10%;
-    right: 10%;
-    transform: translate(13%, 42%);
-}
-
 .about {
     height: 80vh;
     background-color: #ffc2d94d;
